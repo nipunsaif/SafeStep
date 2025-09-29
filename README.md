@@ -1,2 +1,2 @@
-# SafeStep
-Smart Blind Stick Using Ultrasonic Sensor and Arduino Nano
+# SafeStep: Smart Blind Stick Using Ultrasonic Sensor and Arduino Nano
+
