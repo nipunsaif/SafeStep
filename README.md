@@ -1,4 +1,4 @@
-# SafeStep: Smart Blind Stick Using Ultrasonic Sensor and Arduino Nano
+# SafeStep: Smart Blind Stick Using Ultrasonic Sensor and Arduino Uno
 
 ## Abstract
 Independent mobility remains a significant challenge for visually impaired individuals, who tradition-
