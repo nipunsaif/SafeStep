@@ -13,7 +13,7 @@ margin below 2%. Owing to its affordability, simplicity, and responsiveness, Saf
 accessible assistive technology solution suitable for deployment in resource-constrained environments.
 
 ## System Block Diagram
-[System Block Diagram](images/block-diagram.png)
+![System Block Diagram](images/block-diagram.png)
 
 ## Circuit Diagram
 ![Circuit Diagram](images/circuit-diagram.jpg)
